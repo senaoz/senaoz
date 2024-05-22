@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hey 👋 I’m [Sena Oz](https://senaoz.vercel.app).
+I am a senior management information systems student at Bogazici University and a software developer. I am passionate about building innovative solutions and creating value through technology. 
 
 <!--
 **senaoz/senaoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
