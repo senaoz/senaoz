@@ -1,7 +1,6 @@
 ## Hey 👋 I’m [Sena](https://senaoz.vercel.app).
 
-I am a passionate software developer and a graduate of Bogazici University with a degree in MIS. I love building innovative solutions and creating value through technology.
-
+I am a Software Engineer with a passion for building products that make a difference. Having recently graduated from Bogaziçi University, I am currently working as a Software Engineer at [Maestra.ai](https://maestra.ai)
 <!--
 **senaoz/senaoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
