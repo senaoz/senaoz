@@ -1,6 +1,7 @@
-## Hey 👋 I’m [Sena](https://senaoz.vercel.app).
+## Hey 👋 I’m [Sena Oz](https://senaoz.vercel.app).
 
-I am a Software Engineer with a passion for building products that make a difference. Having recently graduated from Bogaziçi University.
+A Software Engineer driven to create impactful products, with a background in Management Information Systems from Bogazici University and a Master’s in Software Engineering. Always eager to learn and grow in the tech space.
+
 <!--
 **senaoz/senaoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
